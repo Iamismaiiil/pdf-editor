@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "pages": {
+    "0": [
+      {
+        "id": "3ab027f5-6ac5-4c93-84eb-c8e01d39dacb",
+        "type": "textbox",
+        "x": 205.92706298828125,
+        "y": 264.90277099609375,
+        "w": 320,
+        "h": 70,
+        "text": "dfgsdfg",
+        "fontSize": 16,
+        "fontFamily": "Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial",
+        "color": "#111111",
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "align": "left",
+        "padding": 10,
+        "borderRadius": 10,
+        "borderColor": "rgba(0,0,0,0.08)",
+        "borderWidth": 0,
+        "background": "transparent",
+        "shadow": "none",
+        "lineHeight": 1.35,
+        "letterSpacing": 0
+      },
+      {
+        "id": "59acd8bc-0605-4319-a731-992ee5987029",
+        "type": "stamp",
+        "x": 163.92706298828125,
+        "y": 1375.3993530273438,
+        "w": 160,
+        "h": 72,
+        "label": "Vertraulich",
+        "color": "#6f42c1"
+      },
+      {
+        "id": "d45f5cbb-6c58-45a1-9909-d100e598daf9",
+        "type": "stamp",
+        "x": 115.92706298828125,
+        "y": 1208.3993530273438,
+        "w": 160,
+        "h": 72,
+        "label": "Entwurf",
+        "color": "#ffc107"
+      }
+    ]
+  }
+}
