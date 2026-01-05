@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "pages": {
+    "2": [
+      {
+        "id": "f6e57708-9818-4116-aa3b-7293e595e51f",
+        "type": "textbox",
+        "x": 384.5,
+        "y": 262.8125,
+        "w": 220,
+        "h": 34,
+        "text": "Doppelklick zum Bearbeiten",
+        "fontSize": 14
+      },
+      {
+        "id": "ec0720b9-4bfb-48fe-8cc3-117473d034fc",
+        "type": "textbox",
+        "x": 384.5,
+        "y": 261.8125,
+        "w": 220,
+        "h": 34,
+        "text": "Doppelklick zum Bearbeiten",
+        "fontSize": 14
+      },
+      {
+        "id": "48a6ceb6-72d4-48d5-aef2-94f38bc07e2f",
+        "type": "textbox",
+        "x": 384.5,
+        "y": 260.8125,
+        "w": 220,
+        "h": 34,
+        "text": "Doppelklick zum Bearbeiten",
+        "fontSize": 14
+      },
+      {
+        "id": "376af373-d348-49e4-9ce5-bdf0763df498",
+        "type": "textbox",
+        "x": 384.5,
+        "y": 260.8125,
+        "w": 220,
+        "h": 34,
+        "text": "Doppelklick zum Bearbeiten",
+        "fontSize": 14
+      },
+      {
+        "id": "eb05ffab-43fe-499b-be78-42835bbda8ab",
+        "type": "textbox",
+        "x": 952.5,
+        "y": 389.8125,
+        "w": 220,
+        "h": 34,
+        "text": "sadfaf",
+        "fontSize": 14
+      }
+    ]
+  }
+}

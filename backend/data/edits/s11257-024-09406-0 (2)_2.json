@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "pages": {
+    "0": [
+      {
+        "id": "7ad27ece-f30e-49db-b11d-ecd10bfde384",
+        "type": "cover_text",
+        "x": 103,
+        "y": 334,
+        "w": 652,
+        "h": 62,
+        "text": "tateateate",
+        "fontSize": 16
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "pages": {
+    "0": [
+      {
+        "id": "b10ea7f5-3f1e-437a-a49e-a5cdd106230c",
+        "x": 752,
+        "y": 634,
+        "w": 320,
+        "h": 60,
+        "text": "",
+        "fontSize": 16,
+        "fontFamily": "Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial",
+        "color": "#111111",
+        "bold": false,
+        "italic": false,
+        "align": "left",
+        "background": "transparent",
+        "backgroundOpacity": 1,
+        "borderColor": "transparent",
+        "borderWidth": 0,
+        "borderRadius": 8,
+        "padding": 8,
+        "type": "textbox"
+      },
+      {
+        "id": "309b139a-de95-4401-85e9-1473101fc507",
+        "x": 595,
+        "y": 625,
+        "w": 320,
+        "h": 60,
+        "text": "",
+        "fontSize": 16,
+        "fontFamily": "Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial",
+        "color": "#111111",
+        "bold": false,
+        "italic": false,
+        "align": "left",
+        "background": "transparent",
+        "backgroundOpacity": 1,
+        "borderColor": "transparent",
+        "borderWidth": 0,
+        "borderRadius": 8,
+        "padding": 8,
+        "type": "textbox"
+      },
+      {
+        "id": "5c3ab12a-4bb2-4517-8ee1-866ca64e6193",
+        "x": 454,
+        "y": 650,
+        "w": 320,
+        "h": 60,
+        "text": "",
+        "fontSize": 16,
+        "fontFamily": "Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial",
+        "color": "#111111",
+        "bold": false,
+        "italic": false,
+        "align": "left",
+        "background": "transparent",
+        "backgroundOpacity": 1,
+        "borderColor": "transparent",
+        "borderWidth": 0,
+        "borderRadius": 8,
+        "padding": 8,
+        "type": "textbox"
+      }
+    ]
+  }
+}
